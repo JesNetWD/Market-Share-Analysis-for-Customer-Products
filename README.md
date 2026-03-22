@@ -64,7 +64,7 @@ This project answers:
 
 ## 📈 Key Insights
 
-- Office Supplies is the largest market but has low company share (21%).
+- Office Supplies is the largest market but has our company has low market share (21%).
 - The company dominates Furniture (40%) but it is the smallest market.
 - The company is a strong #2 in Technology (31%), close to the leader.
 - Competitor B is the overall market leader (~30%).
