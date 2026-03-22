@@ -25,16 +25,17 @@
 
 ## RECOMMENDATIONS
 
-1. Furniture has the lowest market size yet Our Company dominates the Furniture Category with a market share of 40% so we should:
+1. Furniture has the lowest market size yet Our Company dominates the Furniture Category with a market share of 40% so we should adopt a defensive strategy:
    Limit our spending to the bare minimum needed to sustain current operations and productivity and instead shift our focus to customer retention through customer loyalty programs and better customer service.
-2. Office Supplies has the highest market size yet Our Company has a low market share of 21% so we should:
 
-- Reinvest the surplus profits from the Furniture Category into marketing and advertising to target new customers.
-- Establish a Unique Selling Point (USP) by focusing on a specialized segment or offering personalized features.
-- Acquire Competitor C to absorb their Customer lists and gain scale and technical advantage.
+2. Office Supplies has the highest market size yet Our Company has a low market share of 21% so we should adopt a growth stategy:
 
-4. Our company is a Strong Number Two in the Technology Category with a market share of 31% so we should:
+- Reinvest the surplus profits from the Furniture Category into marketing and customer acquisition.
+- Improve differentiation (pricing, bundles, service).
+- Target high-value customer segments.
 
-- Acquire Competitor C to gain the scale required to challenge Competitor B's cost advantages.
+4. Our company is a Strong Number Two in the Technology Category with a market share of 31% so we should adopt a competitive strategy:
+
 - Focus on the competitor experience to win on service and a better customer community.
 - Be faster at adopting and developing new tech or responding to customer trends that Competitor B is too slow to do.
+- Focus on strong-performing regions like the East to scale growth.
