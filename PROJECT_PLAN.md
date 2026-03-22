@@ -70,16 +70,18 @@ How is the company’s competitive position evolving across product categories a
 ## 5. Dataset Overview
 
 **Dataset Name:** `[Insert Dataset Name]`
-**Time Period Covered:** `[e.g., Jan 2022 – Dec 2024]`
-**Granularity:** `[Monthly / Quarterly / Yearly]`
-**Product Categories:** `[List categories]`
+**Time Period Covered:** `[Jan 2015 – Dec 2018]`
+**Granularity:** `[Yearly]`
+**Product Categories:** `[Furnitures, Office Supplies, Technology]`
 **Key Columns:**
 
 - `Product`
 - `Category`
 - `Time Period`
 - `Company Sales`
-- `[Any other relevant columns]`
+- `Competitor A Sales`
+- `Competitor B Sales`
+- `Competitor C Sales`
 
 ---
 
@@ -127,7 +129,7 @@ The following metrics will be calculated:
 - **Total Market Size**
 
   ```
-  Company Sales ÷ Assumed Company Market Share
+  Company Sales + Competitor A Sales + Competitor B Sales + Competitor C Sales
   ```
 
 - **Company Market Share (%)**
