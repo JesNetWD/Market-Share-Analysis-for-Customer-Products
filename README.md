@@ -76,3 +76,9 @@ This project answers:
 - **Furniture:** Maintain position with minimal investment
 - **Office Supplies:** Increase investment to gain share
 - **Technology:** Compete aggressively to become market leader
+
+---
+
+## Preview
+
+![Dashboard Preview](./dashboard.png)
