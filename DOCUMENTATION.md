@@ -34,7 +34,7 @@
 - Improve differentiation (pricing, bundles, service).
 - Target high-value customer segments.
 
-4. Our company is a Strong Number Two in the Technology Category with a market share of 31% so we should adopt a competitive strategy:
+3. Our company is a Strong Number Two in the Technology Category with a market share of 31% so we should adopt a competitive strategy:
 
 - Focus on the competitor experience to win on service and a better customer community.
 - Be faster at adopting and developing new tech or responding to customer trends that Competitor B is too slow to do.
