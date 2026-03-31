@@ -87,4 +87,4 @@ This project answers:
 
 ## LINKS
 
-[Google Drive](https://drive.google.com/drive/folders/1Xrk7TpHp0203_tZnvDlMvyPOEluLwMls?usp=drive_link)
+[Google Drive](https://drive.google.com/drive/folders/1Xrk7TpHp0203_tZnvDlMvyPOEluLwMls?usp=sharing)
