@@ -1,90 +1,127 @@
-# 📊 Market Share Analysis Project
-
-## Overview
-
-This project analyzes market share performance in the consumer goods sector across three product categories: Furniture, Office Supplies, and Technology.
-
-The goal is to evaluate competitive positioning, identify growth opportunities, and provide strategic recommendations using Excel.
+# 📊 Market Share Analysis – Consumer Goods Industry
 
 ---
 
-## 🧠 Problem Statement
+## Executive Summary
 
-Companies often lack visibility into how they perform relative to competitors.
+**Business Problem:**  
+Companies often struggle to understand their competitive positioning across multiple product categories. Without this insight, strategic investments and growth initiatives may be misaligned.
 
-This project answers:
+**Solution:**  
+This project evaluates market share across Furniture, Office Supplies, and Technology, using Excel-based dashboards, pivot tables, and calculated fields. Competitor performance and market trends were analyzed to generate actionable insights.
+
+**Impact:**
+
+- Identified high-potential categories for growth.
+- Highlighted categories where defensive strategies are optimal.
+- Provided data-driven recommendations for investment, retention, and competitive positioning.
+
+**Next Steps:**
+
+- Validate findings with real-world sales data.
+- Implement recommended strategies in targeted markets.
+- Monitor market share trends quarterly to adjust actions.
+
+---
+
+## Business Problem
+
+Key questions addressed:
 
 - Are we gaining or losing market share?
 - Which competitors are outperforming us?
-- Where should we invest to grow?
+- Where should the company invest to grow?
+- What categories require defensive or competitive strategies?
 
 ---
 
-## 🛠 Tools Used
+## Methodology
 
-- Microsoft Excel
-- Pivot Tables
-- Calculated Fields
-- Data Cleaning Techniques
-- Dashboard Design (Charts & Slicers)
+1. **Data Preparation**
 
----
+   - Removed duplicates and standardized dates.
+   - Validated key fields: Category, Region, Segment.
+   - Simulated competitor sales to reflect market competition.
+   - Created a **Total Market** column for aggregation.
 
-## 📂 Process
+2. **Market Size Analysis**
 
-### 1. Data Preparation
+   - Calculated total market per category.
+   - Evaluated growth trends from 2015–2018.
 
-- Removed duplicates
-- Fixed date formats
-- Validated key fields
-- Simulated competitor data
+3. **Market Share Analysis**
 
----
+   - Computed company and competitor market shares.
+   - Benchmarked performance across categories.
 
-### 2. Market Size Analysis
-
-- Calculated total market by category
-- Analyzed growth trends
+4. **Dashboard Creation**
+   - Built an interactive Excel dashboard with charts and slicers.
+   - Enabled quick analysis of trends, regional performance, and segment contributions.
 
 ---
 
-### 3. Market Share Analysis
+## Tools and Skills
 
-- Computed company and competitor shares
-- Compared performance across categories
-
----
-
-### 4. Dashboard Creation
-
-- Built an interactive dashboard
-- Visualized trends using charts and slicers
+- Microsoft Excel (Pivot Tables, Charts, Slicers)
+- Data Cleaning & Validation
+- Calculated Fields & Formulas
+- Dashboard Design & Visualization
+- Analytical Thinking & Competitive Benchmarking
 
 ---
 
-## 📈 Key Insights
+## Results
 
-- Office Supplies is the largest market but our company has low market share (21%).
-- The company dominates Furniture (40%) but it is the smallest market.
-- The company is a strong #2 in Technology (31%), close to the leader.
-- Competitor B is the overall market leader (~30%).
+**Market Insights:**
+
+| Category        | Market Size | Our Share | Top Competitor     | Observation                                |
+| --------------- | ----------- | --------- | ------------------ | ------------------------------------------ |
+| Furniture       | $180,000    | 40%       | Competitor B (25%) | Dominant in small market – defensive focus |
+| Office Supplies | $338,000    | 21%       | Competitor B (32%) | Largest market – opportunity for growth    |
+| Technology      | $269,000    | 31%       | Competitor B (34%) | Strong #2 – competitive strategy required  |
+
+- Overall, Competitor B leads with ~30% market share; Our Company follows at ~29%.
+- Regional insights: West region drives Furniture and Office Supplies sales; East leads in Technology.
+- Segment analysis: Consumer segment is the primary sales driver, followed by Corporate and Home Office.
+- Market trend: 2016 saw a dip across all categories (Furniture -9%, Office Supplies -11%, Technology -3%).
 
 ---
 
-## 🎯 Recommendations
+## Recommendations
 
-- **Furniture:** Maintain position with minimal investment
-- **Office Supplies:** Increase investment to gain share
-- **Technology:** Compete aggressively to become market leader
+1. **Furniture (Defensive Strategy)**
+
+   - Maintain current operations with minimal investment.
+   - Focus on customer retention via loyalty programs and enhanced service.
+
+2. **Office Supplies (Growth Strategy)**
+
+   - Reinvest surplus profits from Furniture into marketing and customer acquisition.
+   - Differentiate offerings through pricing, bundles, and service.
+   - Target high-value customer segments.
+
+3. **Technology (Competitive Strategy)**
+   - Compete on superior service and community engagement.
+   - Accelerate adoption of new technologies and customer trends.
+   - Focus on high-performing regions (East) to scale growth.
 
 ---
 
-## Preview
+## Next Steps
+
+- Validate insights with updated sales data.
+- Implement targeted growth, competitive, and defensive strategies.
+- Track quarterly market share changes through updated dashboards.
+- Explore advanced visualization tools [Power BI] for dynamic reporting.
+
+---
+
+## Dashboard Preview
 
 ![Dashboard Preview](./dashboard.png)
 
 ---
 
-## LINKS
+## Links
 
-[Google Drive](https://drive.google.com/drive/folders/1Xrk7TpHp0203_tZnvDlMvyPOEluLwMls?usp=drive_link)
+[Google Drive – Project Files](https://drive.google.com/drive/folders/1Xrk7TpHp0203_tZnvDlMvyPOEluLwMls?usp=drive_link)
